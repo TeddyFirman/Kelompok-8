@@ -1,0 +1,21 @@
+    1. Apa saja yang perlu disiapkan untuk membuat suatu project laravel
+    2. Tulisan syntax Create suatu data dalam bentuk eloquent
+    • Nama table Students & nama variabel $student
+    • Terdiri dari: first_name, last_name dan student_rank
+    • Nama studentnya John Doe dengan rank 1
+    3. Tulisan syntax Read semua data dalam bentuk eloquent
+    • Read semua data dari Students
+    4. Tuliskan syntax Update suatu data dalam bentuk eloquent
+    • Update data dari John Doe ganti rank 2
+    5. Tuliskan syntax Delete data John Doe dalam bentuk eloquent
+    6. Buat Rest API dengan ketentuan sebagai berikut:
+    • Buat admin panel yang bisa manajemen data dari 2 tabel disertai fitur login (auth)
+    • (Minimal) Dua tabel tersebut memiliki relasi one to many
+    • Gunakan pattern MVC dalam membuat API (CRUD)
+    • Buat API untuk menampilkan data dari 2 tabel tersebut, baik list maupun detail
+    • Buat API untuk pencarian data
+    • Semua respon berbentuk JSON
+    • Gunakan repository git (github)
+    • Buat file readme di repository git setidaknya berisi:
+    • Nama kelompok dan bagian fitur apa yang dibuat
+    • Penjelasan project
